@@ -20,10 +20,10 @@
 
         <div class="box">
             <h3>Контакты</h3>
-            <p> <i class="fas fa-phone"></i> +7 (4932) 93-96-85 </p>
+            <p> <i class="fas fa-phone"></i> +7 (4900) 93-96-85 </p>
             <p> <i class="fas fa-envelope"></i> hot-line@fk-olimp.ru </p>
             <p> <i class="fas fa-envelope"></i> info@fk-olimp.ru </p>
-            <p> <i class="fas fa-map-marker-alt"></i>  г. Иваново, ул. Смирнова, 84 </p>
+            <p> <i class="fas fa-map-marker-alt"></i>  г. Иваново, ул. Смирнова, 8 </p>
         </div>
 
         <div class="box">
@@ -36,6 +36,6 @@
 
     </div>
 
-    <div class="credit">&copy; Все права защищены <?php echo date('Y'); ?>. Сделал <span> Баукин Е.А. </span> </div>
+    <div class="credit">&copy; Все права защищены <?php echo date('Y'); ?>. Сделал <span> Баукин  </span> </div>
 
 </section>
